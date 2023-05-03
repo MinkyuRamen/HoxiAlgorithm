@@ -4,4 +4,4 @@
 
 ## Matching Algorithm
 
-## MoD(Mobility on Demand Algorithm
+## MoD(Mobility on Demand) Algorithm
